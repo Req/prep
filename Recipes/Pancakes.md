@@ -9,10 +9,10 @@
 
 ## Recipe
 
-- 1. Prepare the ingredients
-- 2. Prepare kitchen
-- 3. ???
-- 4. Profit!
+1. Prepare the ingredients
+2. Prepare kitchen
+3. ???
+4. Profit!
 
 ## Links
 
