@@ -1,4 +1,4 @@
-# Fundamental Recipes - recipex
+# Fundamental Recipes - RecipeY
 
 **Last time**
 - RecipeX
