@@ -1,13 +1,13 @@
-# Module - Submodule - NN: Topic
+# Fundamental Recipes - recipex
 
 **Last time**
-- TopicX
+- RecipeX
 
 **This time**
-- TopicY
+- RecipeY
 
-## TopicX
+## Theory
 
-## Wrap-up
+## Recipe
 
 ## Links
