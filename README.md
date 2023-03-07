@@ -18,5 +18,4 @@ Choose a person to clone this repo and share their screen.
 > - Fundamental ingredients
 > - Basic process
 > - Upgrades to the basic process
-> - Optional ingredients
 > - User customizations (sweet chili sauce, croutons...)
